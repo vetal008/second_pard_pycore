@@ -7,3 +7,4 @@ print_hello()
 
 def more_func():
     print('Fucking shit')
+
